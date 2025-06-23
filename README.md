@@ -109,6 +109,10 @@ __pycache__/
 ```
 Here's a sneak peek:
 
+![Image](https://github.com/user-attachments/assets/9341a732-0ccc-4db2-9f86-9ab21c83bd5b)
+
+
+
 
 
 ## 🧠 What You’ll Learn
