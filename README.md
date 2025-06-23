@@ -106,6 +106,10 @@ __pycache__/
   - Young Age – High Spending, etc.
 
 ---
+```
+Here's a sneak peek:
+
+
 
 ## 🧠 What You’ll Learn
 
@@ -139,7 +143,7 @@ __pycache__/
 
 4. **Run the Code**
    Run all the cells step by step. Each cell has comments and explanations to help you understand the flow.
-
+```
 ---
 
 ## 📌 Summary
