@@ -130,7 +130,7 @@ Here's a sneak peek:
 ---
 
 ## 🚀 How to Run This Project
-
+```
 1. **Clone the Repository**
    ```
    git clone https://github.com/YOUR_USERNAME/customer-segmentation-kmeans.git
