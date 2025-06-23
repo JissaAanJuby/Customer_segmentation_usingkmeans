@@ -172,7 +172,7 @@ This project demonstrates how unsupervised learning can help businesses understa
 
 ## 🌐 Contact
 
-- 📧 Email: yourname@example.com  
+- 📧 Email: jissaannjuby@gmail.com  
 - 🐱 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 ---
