@@ -1,7 +1,7 @@
 # 🛍️ Customer Segmentation using K-Means Clustering
 
 This machine learning project groups customers based on **Age**, **Annual Income**, and **Spending Score** using the **K-Means Clustering algorithm**. It helps businesses understand different types of customers so they can make smarter marketing decisions.
-And I made a blog post based on this . The link is given below:
+And I made a blog post based on this. The link is given below:
 https://medium.com/@jissaannjuby/boxplots-️-mall-customer-segmentation-my-first-ml-project-that-actually-made-sense-83b28207f46c
 ---
 
